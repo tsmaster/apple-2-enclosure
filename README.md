@@ -7,6 +7,7 @@ The plan is to cut it out of 1/4" birch plywood, at full size: 17" front-to-back
 I'd also like to print the whole thing out at half size to put a tinier (Raspberry Pi C?) machine inside.
 
 # TODO
+ - remove (most) of the path lines, to reduce the amount of tab chad generated
  - put (optional) logo on keyboard tray top
  - make cutouts (on back, access panel) optional
  - lase the thing and see how it goes
